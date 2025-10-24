@@ -1,0 +1,25 @@
+```css
+body {
+    background: #ffc0cb; /* soft pink */
+    font-family: 'Arial', sans-serif;
+    color: #4b004b;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: #ffe6f0;
+    border-radius: 15px;
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(255, 192, 203, 0.7);
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 0.2em;
+}
+
+h2 {
+    font-size: 2em;
